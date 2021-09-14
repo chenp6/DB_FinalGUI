@@ -243,10 +243,10 @@ public class Query5GUI extends JFrame {
 	}
 
 	private Connection getConnection() throws SQLException {
-		String serverName = "140.127.74.170"; // 伺服器網址
-		String database = "410877019"; // 資料庫名稱
-		String user = "410877019"; // 使用者名稱
-		String password = "410877019"; // 使用者密碼
+		String serverName = "serverName_URL"; // 伺服器網址
+		String database = "db_name"; // 資料庫名稱
+		String user = "user_name"; // 使用者名稱
+		String password = "user_pwd"; // 使用者密碼
 		String url = "jdbc:mysql://" + serverName + "/" + database; // JDBC線
 		return DriverManager.getConnection(url, user, password); // 連線方法
 	}
