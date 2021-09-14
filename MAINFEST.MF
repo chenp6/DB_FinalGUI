@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: tools/mysql-connector-java-8.0.25.jar
+Main-Class: Query5.Query5App
+
