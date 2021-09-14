@@ -8,6 +8,7 @@
 
 
 ## 操作說明
-詳細操作說明請看:購物車Query5App操作說明.pdf
+詳細操作說明請看:
+&emsp;購物車Query5App操作說明.pdf
 
 
