@@ -8,7 +8,7 @@
 
 
 ## 操作說明
-詳細操作說明請看:
-&emsp;購物車Query5App操作說明.pdf
+詳細操作說明:
+&emsp;[購物車Query5App操作說明.pdf](https://github.com/chenp6/DB_FinalGUI/blob/main/%E8%B3%BC%E7%89%A9%E8%BB%8AQuery5App%E6%93%8D%E4%BD%9C%E8%AA%AA%E6%98%8E.pdf)
 
 
